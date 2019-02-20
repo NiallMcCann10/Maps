@@ -1,0 +1,7 @@
+{
+  "name": "ionic2-maps-cluster",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
